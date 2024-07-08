@@ -9,8 +9,8 @@ HTML - HyperText Markup Language
 `Learn HTML – Full Tutorial for Beginners (2022)` by `freeCodeCam.p.org`, `Dave Gray`
 
 Chapter 1. Getting Started
-Chapter 2.
-Chapter 3.
+Chapter 2. Head Element
+Chapter 3. Text Basics
 Chapter 4.
 Chapter 5.
 Chapter 6.
