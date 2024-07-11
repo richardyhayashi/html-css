@@ -11,7 +11,7 @@ CSS  - Cascading Stylesheets
 
 Chapter 1 Introduction
 Chapter 2 Your first JavaScript program
-Chapter 3
+Chapter 3 What is JavaScript? 
 Chapter 4
 Chapter 5
 Chapter 6
