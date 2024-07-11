@@ -6,4 +6,5 @@ services:
       - ${NGINX_PORT_OUT}:${NGINX_PORT}
       - ${NGINX_SSL_OUT}:${NGINX_SSL}
     volumes:
-      - ./src/html:/usr/share/nginx/html:ro
+      - ./etc/nginx/conf.d:/etc/nginx/conf.d
+      - ./src:/usr/share/nginx/html:ro
