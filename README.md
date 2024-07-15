@@ -2,6 +2,12 @@
 
 HTML - HyperText Markup Language
 
+## Link
+
+* Absolute References
+* Relative References
+* Internal References
+
 ## YouTube
 
 ### HTML
@@ -12,7 +18,7 @@ Chapter 1. Getting Started
 Chapter 2. Head Element
 Chapter 3. Text Basics
 Chapter 4. List Types
-Chapter 5.
+Chapter 5. Add Links
 Chapter 6.
 Chapter 7.
 Chapter 8.
